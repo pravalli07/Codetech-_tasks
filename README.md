@@ -1,6 +1,6 @@
 CODTECH IT Solutions - AI Internship Tasks
 Intern Information
-Name: Inuganti Naga Venkata Pravall
+Name: Inuganti Naga Venkata Pravalli
 
 Intern ID: (CTIS6137)
 
@@ -37,4 +37,5 @@ Key Features: Adjustable creativity via temperature sampling and interactive pro
 
 
 Technology: GPT-2, Transformers library.
+
 
