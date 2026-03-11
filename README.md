@@ -1,8 +1,8 @@
 CODTECH IT Solutions - AI Internship Tasks
 Intern Information
-Name: Santhosh J
+Name: Inuganti Naga Venkata Pravall
 
-Intern ID: (DC3074C7F0B60158)
+Intern ID: (CTIS6137)
 
 Domain: Artificial Intelligence 
 
@@ -37,3 +37,4 @@ Key Features: Adjustable creativity via temperature sampling and interactive pro
 
 
 Technology: GPT-2, Transformers library.
+
